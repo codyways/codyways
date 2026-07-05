@@ -23,3 +23,10 @@ My engineering focus includes backend architecture, distributed systems, intelli
 * Researching automation, financial infrastructure, and blockchain engineering.
 * Continuously improving software architecture, system design, and engineering practices.
 * Open to challenging Software Engineering and Backend Engineering opportunities.
+
+
+## Connect
+
+* 📧 Email: adedotuncody@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/adedotun-cody-775a08417
+* 💻 GitHub: https://github.com/codyways
