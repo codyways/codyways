@@ -1,32 +1,29 @@
-# Hi, I’m Adedotun Cody 👋
+# Systems & Blockchain Backend Engineer | Rust & Python
 
-Senior Software Engineer & Systems Architect
-
-I design intelligent software systems that solve complex business challenges across enterprise, financial, blockchain, and communication ecosystems.
-
-My engineering focus includes backend architecture, distributed systems, intelligent automation, financial infrastructure, blockchain engineering, and operational intelligence. I enjoy turning complex ideas into reliable, scalable software that creates long-term business value.
+Independent Software Engineer building fork-tested execution engines, cryptographic security tooling, and automation infrastructure — validated before deployment, not just simulated.
 
 
-## Engineering Focus
+## Focus Areas
 
-* Backend & Distributed Systems
-* Intelligent Automation
-* Enterprise Software Architecture
-* Financial Infrastructure
-* Blockchain & Web3 Engineering
-* Operational & Decision Intelligence
+- **Blockchain Execution & Treasury Infrastructure** — liquidation engines, deposit-to-treasury consolidation
+- **Cryptographic Security Research** — signature vulnerability analysis (ECDSA nonce-reuse, weak PRNG)
+- **Automation & Data Systems** — event-driven pipelines, cross-platform syndication, market signal detection
 
 
-## Currently
+## Selected Projects
 
-* Building intelligent backend systems and distributed software.
-* Researching automation, financial infrastructure, and blockchain engineering.
-* Continuously improving software architecture, system design, and engineering practices.
-* Open to challenging Software Engineering and Backend Engineering opportunities.
+- **mev-liquidation-engine** — Fork-tested liquidation engine for undercollateralized Ethereum lending positions
+- **ecdsa-vuln-scanner** — Detects private key exposure from ECDSA nonce-reuse and weak PRNG
+- **evm-treasury-consolidator** — Automated deposit-to-treasury consolidation for EVM wallets
+- **ev-betting-engine** — Positive-EV odds comparison engine with live Telegram delivery
 
 
-## Connect
+## How I Work
 
-* 📧 Email: adedotuncody@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/adedotun-cody-775a08417
-* 💻 GitHub: https://github.com/codyways
+Independent · Self-directed · Fork-tested before live deployment · AI-accelerated development workflow
+
+
+## Contact
+
+LinkedIn: linkedin.com/in/adedotun-cody-775a08417
+Email: adedotuncody@gmail.com
